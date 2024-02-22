@@ -1,10 +1,10 @@
 {
-    "url": "https://raw.githubusercontent.com/Wh02m1/Swagger-UI-XSS/main/test.yaml",
+    "url": "https://wh02m1.github.io/Swagger-UI-XSS/test.yaml",
     "urls": [{
-        "url": "https://raw.githubusercontent.com/Wh02m1/Swagger-UI-XSS/main/test.yaml",
+        "url": "https://wh02m1.github.io/Swagger-UI-XSS/test.yaml",
         "name": "Foo"
     },{
-        "url": "https://raw.githubusercontent.com/Wh02m1/Swagger-UI-XSS/main/test.yaml",
+        "url": "https://wh02m1.github.io/Swagger-UI-XSS/test.yaml",
         "name": "Foo2"
     }]
 }
