@@ -1,4 +1,7 @@
-# Swagger-UI DOM Based XSS POC
+ # Swagger-UI DOM Based XSS POC 
+
+ <img src="https://github.com/Wh02m1/Swagger-UI-XSS/assets/21974999/5959b545-3672-4dca-a782-1cc36dd8b99f" alt="Logo" width="100"/>
+
 
 This repository serves as a Proof of Concept (POC) for demonstrating **DOM-based Cross-Site Scripting (XSS)** vulnerabilities in Swagger-UI
 
