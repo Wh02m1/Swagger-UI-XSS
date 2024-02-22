@@ -1,10 +1,9 @@
 {
     "url": "https://wh02m1.github.io/Swagger-UI-XSS/test.yaml",
-    "urls": [{
-        "url": "https://wh02m1.github.io/Swagger-UI-XSS/test.yaml",
-        "name": "Foo"
-    },{
-        "url": "https://wh02m1.github.io/Swagger-UI-XSS/test.yaml",
-        "name": "Foo2"
-    }]
+    "urls": [
+        {
+            "url": "https://wh02m1.github.io/Swagger-UI-XSS/test.yaml",
+            "name": "Foo"
+        }
+    ]
 }
